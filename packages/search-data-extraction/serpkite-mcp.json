@@ -6,7 +6,6 @@
   "url": "https://github.com/SerpKite/serpkite-mcp",
   "readme": "https://serpkite.com/docs/mcp",
   "runtime": "node",
-  "license": "MIT",
   "env": {},
   "remotes": [
     {
